@@ -6,7 +6,7 @@ We thus propose several slight adjustments to the reviewing process for IEEE S&P
 1. [Quarterly submission deadlines] We believe that the community benefits greatly from a flexible submission model and we would like to keep multiple deadlines per year. We propose a change from monthly to quarterly submission deadlines.  The goal will be to choose deadlines that, to the extent possible, complement (rather than overlap) those of other major security conferences.  Ideally, we will work with those conferences to ensure that, taken as a whole, security researchers always have at least one deadline to choose from within any given month.
 
 
-  The advantage of quarterly submissions is that the reviewing cycles do not overlap and the entire PC can participate in all reviewing cycles, avoiding PC fragmentation. The reviewing process will thus become more consistent from cycle to cycle and expertise will be easier to allocate.
+    The advantage of quarterly submissions is that the reviewing cycles do not overlap and the entire PC can participate in all reviewing cycles, avoiding PC fragmentation. The reviewing process will thus become more consistent from cycle to cycle and expertise will be easier to allocate.
 
 
 2. [Second round of reviews] We propose to increase the time between submission and notification to allow for a second round of reviews, when necessary. We would like to send early reject notifications in a two-month timeframe, but we will use an additional three weeks for a second round of review for papers that are either controversial or need additional expertise. We will seek external experts outside the PC when expertise on the PC is not available. Thus, we propose the following timeline:
