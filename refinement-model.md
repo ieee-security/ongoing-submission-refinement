@@ -1,7 +1,7 @@
 # Refining the IEEE Security and Privacy Symposium Reviewing Model
 
 
-We thus propose several slight adjustments to the reviewing process for IEEE S&P to address the aforementioned challenges.
+We propose several slight adjustments to the reviewing process for IEEE S&P to address the aforementioned challenges.
 
 1. [Quarterly submission deadlines] We believe that the community benefits greatly from a flexible submission model and we would like to keep multiple deadlines per year. We propose a change from monthly to quarterly submission deadlines.  The goal will be to choose deadlines that, to the extent possible, complement (rather than overlap) those of other major security conferences.  Ideally, we will work with those conferences to ensure that, taken as a whole, security researchers always have at least one deadline to choose from within any given month.
 
