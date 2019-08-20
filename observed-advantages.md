@@ -1,0 +1,4 @@
+# Observed Advantages of the New Submission Model
+
+
+Overall, the feedback from the community on the new submission model has been positive. The IEEE Security and Privacy Symposium has been leading the entire security community in changing the conference submission and reviewing model. At this point, all major security conferences have changed to multiple deadlines per year (quarterly deadlines for USENIX Security, and two deadlines per year for ACM CCS and NDSS). Authors found that the new model provides more flexibility in choosing the right deadline and submitting a paper when it is ready. Everyone benefits from getting access to the accepted papers early on, so they can start working on new research directions. The Revision option proved effective at improving the paper quality and allowing revised papers to become part of the conference program. Interestingly, the overall load in 2019 for PC members in terms of number of reviewed papers has decreased.
