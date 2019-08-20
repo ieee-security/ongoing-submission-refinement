@@ -14,6 +14,13 @@ We thus propose several slight adjustments to the reviewing process for IEEE S&P
 
 2. [Second round of reviews] We propose to increase the time between submission and notification to allow for a second round of reviews, when necessary. We would like to send early reject notifications in a two-month timeframe, but we will use an additional three weeks for a second round of review for papers that are either controversial or need additional expertise. We will seek external experts outside the PC when expertise on the PC is not available. Thus, we propose the following timeline:
 
+  - Quarter 1: Submission on March 1, Early Rejection on April 21, Final Notification on May 21.
+
+  - Quarter 2: Submission on June 1, Early Rejection on July 21, Final Notification on August 21.
+
+  - Quarter 3: Submission on September 1, Early Rejection on October 21, Final Notification on November 21.
+
+  - Quarter 4: Submission on December 1, Early Rejection on February 1, Final Notification on February 21.
 
 3. [Revised papers] The Revision process has received positive feedback from the community. We plan to keep the Revised option without major modifications. Each Revised paper is assigned a point of contact in the Program Committee to facilitate the interaction between authors and reviewers. Authors can submit a Revised paper to the next two quarterly submission deadlines after the notification.
 
